@@ -1,0 +1,5 @@
+[
+  {"name": "John A.", "salary": 800, "increase": false, "rise": true, "id": 1},
+  {"name": "Dominik T.", "salary": 1500, "increase": true, "rise": false, "id": 2},
+  {"name": "Merkel V.", "salary": 1100, "increase": false, "rise": false, "id": 3}
+]
